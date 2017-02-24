@@ -21,8 +21,6 @@ var svgXHR = function (options) {
     _ajax = new XDomainRequest();
   }
 
-  url = 'https://www-si1.storspelare.com' + url;
-
   if (url.indexOf('http') !== 0) {
     if (typeof baseUrl === 'undefined') {
       if (typeof window.baseUrl !== 'undefined') {
