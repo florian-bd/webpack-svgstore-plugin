@@ -1,6 +1,6 @@
 {
   "name": "webpack-svgstore-plugin-fix-absolute-url",
-  "version": "3.0.6",
+  "version": "4.0.1",
   "description": "Webpack svgstore plugin",
   "main": "src/svgstore.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "istanbul": "0.4.5",
     "mocha": "3.2.0",
     "path": "0.12.7",
-    "webpack": "1.13.3"
+    "webpack": "2.2.1"
   },
   "repository": {
     "type": "git",
